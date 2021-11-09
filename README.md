@@ -1,3 +1,4 @@
-# jordan blue <br> jordan bleu
-
-## [CSS](swatch.css) `#102986`
+# e forty with black
+## [CSS](swatch.css)
+* `#e40`
+* `black`

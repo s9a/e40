@@ -1,8 +1,8 @@
 :root {
   font-size: calc(1em + 2vmax);
   line-height: 1.2;
-  --lunar: #102986;
-  --solar: #f0f710;
+  --lunar: black;
+  --solar: #e40;
   --ink: var(--solar);
   --oil: var(--lunar);
 }
